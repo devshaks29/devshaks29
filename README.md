@@ -1,4 +1,3 @@
-
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQG-Fl9J6ySNzg/profile-displaybackgroundimage-shrink_350_1400/B4DZotSnxWH4AY-/0/1761696449885?e=1764201600&v=beta&t=cVj3h73FvKjtpjcf6ULpPUCGa6bqwbeadYvbG3RCwcY">
 
 <h3 align="center">Creative Web Designer & Full-Stack Developer | WordPress & Elementor Expert | Helping Businesses Build Modern, Responsive, SEO-Optimized, and User-Friendly Websites That Reflect Their Brand.</h3>
@@ -39,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devshaks29&show_icons=true&locale=en" alt="devshaks29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devshaks29&" alt="devshaks29" /></p>
+
