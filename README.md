@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQG-Fl9J6ySNzg/profile-displaybackgroundimage-shrink_350_1400/B4DZotSnxWH4AY-/0/1761696449885?e=1766620800&v=beta&t=v4X4ryCQBWOoWLKRUmWMtOFiD1-dZTD-YGWg0i3mmxs">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQG-Fl9J6ySNzg/profile-displaybackgroundimage-shrink_350_1400/B4DZotSnxWH4AY-/0/1761696449885?e=1768435200&v=beta&t=NObMPASPu7ggkhj0UVjV9MNv89Gci-Eqdp2YIauTp2M">
 
 <h3 align="center">Creative Web Designer & Full-Stack Developer | WordPress & Elementor Expert | Helping Businesses Build Modern, Responsive, SEO-Optimized, and User-Friendly Websites That Reflect Their Brand.</h3>
 
